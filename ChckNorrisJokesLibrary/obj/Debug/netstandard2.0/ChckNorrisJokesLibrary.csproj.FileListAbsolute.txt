@@ -1,0 +1,25 @@
+C:\Users\ongeziwe shiyeni\source\repos\ChckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChckNorrisJokesLibrary.deps.json
+C:\Users\ongeziwe shiyeni\source\repos\ChckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChckNorrisJokesLibrary.dll
+C:\Users\ongeziwe shiyeni\source\repos\ChckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChckNorrisJokesLibrary.pdb
+C:\Users\ongeziwe shiyeni\source\repos\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ongeziwe shiyeni\source\repos\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.AssemblyInfoInputs.cache
+C:\Users\ongeziwe shiyeni\source\repos\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.AssemblyInfo.cs
+C:\Users\ongeziwe shiyeni\source\repos\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.dll
+C:\Users\ongeziwe shiyeni\source\repos\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.pdb
+C:\Users\ongeziwe shiyeni\source\repos\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.csprojAssemblyReference.cache
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChckNorrisJokesLibrary.deps.json
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChckNorrisJokesLibrary.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChckNorrisJokesLibrary.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.csprojAssemblyReference.cache
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.AssemblyInfoInputs.cache
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.AssemblyInfo.cs
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChckNorrisJokesLibrary.deps.json
+C:\Xamarin\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChckNorrisJokesLibrary.dll
+C:\Xamarin\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\bin\Debug\netstandard2.0\ChckNorrisJokesLibrary.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.csprojAssemblyReference.cache
+C:\Xamarin\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.AssemblyInfoInputs.cache
+C:\Xamarin\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.AssemblyInfo.cs
+C:\Xamarin\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.dll
+C:\Xamarin\SecondChuckNorrisLibrary\ChckNorrisJokesLibrary\obj\Debug\netstandard2.0\ChckNorrisJokesLibrary.pdb

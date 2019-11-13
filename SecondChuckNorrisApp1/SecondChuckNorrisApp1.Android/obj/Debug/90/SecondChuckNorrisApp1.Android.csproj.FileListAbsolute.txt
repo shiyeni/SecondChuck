@@ -1,0 +1,1011 @@
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\SecondChuckNorrisApp1.Android.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\SecondChuckNorrisApp1.Android.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\com.companyname.secondchucknorrisapp1.apk
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\com.companyname.secondchucknorrisapp1-Signed.apk
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\SecondChuckNorrisApp1.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\SecondChuckNorrisApp1.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\build.props
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\adb.props
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\SecondChuckNorrisApp1.Android.csprojAssemblyReference.cache
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\resourcepaths.cache
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res.flag
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\47226210fd96861f31c809daabe1d8d24dfec916.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\1df15295af07d594f8a7b6d8ef3dce441ae688ad.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\8738519192ab985ebc14c8208e97d44e9063f7cc.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\d2762d2dd8e17e39027e1b2e067a98b0523cb2a5.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\dac13509b4cf42749840c8046e97e8916e459703.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\234b69e56f869fa18ddfae442bcc13d29c976cfb.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\d53cba778f13179b87b845a3ce1d1d9e89c21966.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\5f48181d2e9b9ab027a9be8331c0b8b7e0bfb445.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\8c21a51673a606e067165e08a4b2a015ce5c0eaf.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\151f8973901c0083f1a8c5125ff66c2ea25d4ec6.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\0c8fd14ddd9596617b1b6a3c0cca1f4f73d22b8d.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\47226210fd96861f31c809daabe1d8d24dfec916.flata
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\1df15295af07d594f8a7b6d8ef3dce441ae688ad.flata
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\8738519192ab985ebc14c8208e97d44e9063f7cc.flata
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\d2762d2dd8e17e39027e1b2e067a98b0523cb2a5.flata
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\dac13509b4cf42749840c8046e97e8916e459703.flata
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\234b69e56f869fa18ddfae442bcc13d29c976cfb.flata
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\d53cba778f13179b87b845a3ce1d1d9e89c21966.flata
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\5f48181d2e9b9ab027a9be8331c0b8b7e0bfb445.flata
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\8c21a51673a606e067165e08a4b2a015ce5c0eaf.flata
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\151f8973901c0083f1a8c5125ff66c2ea25d4ec6.flata
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\0c8fd14ddd9596617b1b6a3c0cca1f4f73d22b8d.flata
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\R.txt
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\R.cs.flag
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\XamlC.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\SecondChuckNorrisApp1.Android.csproj.CopyComplete
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\SecondChuckNorrisApp1.Android.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\SecondChuckNorrisApp1.Android.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\bin\com.companyname.secondchucknorrisapp1.apk
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\uploadflags.txt
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\SecondChuckNorrisApp1.Android.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\FormsViewGroup.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Java.Interop.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Mono.Android.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\mscorlib.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Newtonsoft.Json.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\SecondChuckNorrisApp1.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Core.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Numerics.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Numerics.Vectors.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Runtime.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Xml.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Xml.Linq.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Collections.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomView.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Design.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Interpolator.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Loader.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Print.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v4.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.ViewPager.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Essentials.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Core.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.Android.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Xaml.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Net.Http.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Drawing.Common.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\netstandard.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Data.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Transactions.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.IO.Compression.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.ComponentModel.Composition.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Web.Services.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Mono.Security.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\SecondChuckNorrisApp1.Android.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\FormsViewGroup.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Mono.Android.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\SecondChuckNorrisApp1.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Essentials.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\link.flag
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\SecondChuckNorrisApp1.Android.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\SecondChuckNorrisApp1.Android.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\SecondChuckNorrisApp1.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\SecondChuckNorrisApp1.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.jm.x86.s
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.mj.x86.s
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\static.flag
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\buildid.txt
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActionSheetRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActivityIndicatorRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AHorizontalScrollView.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AndroidActivity.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BaseCellView.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BorderDrawable.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BoxRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonClickListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonTouchListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageAdapter.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselViewRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellAdapter.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellRenderer_RendererHolder.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CenterSnapHelper.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxDesignerRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxRendererBase.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CircularProgress.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CollectionViewRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ColorChangeRevealDrawable.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ConditionalFocusLayout.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ContainerView.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CustomFrameLayout.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DataChangeObserver.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRendererBase_1.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EdgeSnapHelper.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorEditText.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRendererBase_1.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EmptyViewAdapter.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSingleSnapHelper.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSnapHelper.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryAccessibilityDelegate.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellEditText.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellView.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryEditText.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRendererBase_1.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_FontSpan.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsAppCompatActivity.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsApplicationActivity.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditText.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditTextBase.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsImageView.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsSeekBar.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsTextView.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebChromeClient.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebViewClient.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer_FrameDrawable.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericAnimatorListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericMenuClickListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GestureManager_TapAndPanGestureDetector.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GridLayoutSpanSizeLookup.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GroupedListViewAdapter.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageButtonRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_CacheEntry.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_FormsLruCache.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerGestureListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerScaleListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemContentView.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewAdapter.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LabelRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewAdapter.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_Container.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LocalizedDigitsKeyListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailContainer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NativeViewWrapperRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NavigationRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NongreedySnapHelper.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ObjectJavaBox_1.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer_Renderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageContainer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedFragment.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerEditText.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerManager_PickerListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PlatformRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\Platform_DefaultRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PositionalSmoothScroller.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PowerSaveModeBroadcastReceiver.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ProgressBarRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollHelper.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewContainer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SearchBarRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewAdapter.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableViewHolder.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellContentFragment.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFragmentPagerAdapter.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRendererBase.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellPageContainer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellRenderer_SplitDrawable.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSectionRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SimpleViewHolder.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SingleSnapHelper.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SizedItemContentView.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SliderRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SpacingItemDecoration.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSingleSnapHelper.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSnapHelper.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRendererManager_StepperListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchCellView.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TabbedRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewModelRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TemplatedItemViewHolder.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextCellRenderer_TextCellView.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextViewHolder.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRendererBase_1.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer_2.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementRenderer_1.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementTracker_AttachTracker.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer_JavascriptResult.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\AccelerometerListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ActivityLifecycleContextListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BarometerListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BatteryBroadcastReceiver.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ConnectivityBroadcastReceiver.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\EnergySaverBroadcastReceiver.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\GyroscopeListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\Listener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\MagnetometerListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\OrientationSensorListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SensorListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SingleLocationListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\TextToSpeechImplementation.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ButtonRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\FrameRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ImageRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\LabelRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5423e3a95c357eb7d6aad61b4f54abbd4\RecyclerViewScrollListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ButtonRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\CarouselPageRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsFragmentPagerAdapter_1.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsViewPager.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FragmentContainer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FrameRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailContainer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailPageRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_ClickListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_Container.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRendererBase_1.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\Platform_ModalContainer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ShellFragmentContainer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\SwitchRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\TabbedPageRenderer.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ViewRenderer_2.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\CustomTabsServiceConnectionImpl.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\KeepAliveService.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51d13c28a4ed7fce23a325b480c9ae668\MainActivity.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\com\companyname\secondchucknorrisapp1\R.java
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\ChckNorrisJokesLibrary.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\ChckNorrisJokesLibrary.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\ChckNorrisJokesLibrary.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\ChckNorrisJokesLibrary.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\ChckNorrisJokesLibrary.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\ChckNorrisJokesLibrary.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\SecondChuckNorrisApp1.Android.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\SecondChuckNorrisApp1.Android.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\com.companyname.secondchucknorrisapp1.apk
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\com.companyname.secondchucknorrisapp1-Signed.apk
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\SecondChuckNorrisApp1.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\ChckNorrisJokesLibrary.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\SecondChuckNorrisApp1.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\bin\Debug\ChckNorrisJokesLibrary.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\build.props
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\adb.props
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\SecondChuckNorrisApp1.Android.csprojAssemblyReference.cache
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\resourcepaths.cache
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res.flag
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\92a2aecd03f9fb756147e4c1501988b42573484c.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\cb1b7bd06998e262f04d515e867cdbfe7836ede7.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\6fdcb2004c7d439f9a6115089691ea804b30e353.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\fb3604ad6a594e1c6817260d3cb4371de2599a8c.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\305cc05ff61f45eb5ac7e7b536e0904f72cb3ce0.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\20de1836b0341621747c394ddfb3c228b79f6408.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\a3295369e3514d8f3e243b51c636d761073805d3.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\28c188064fb962e2fa72585f284524e094079a29.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\23119f43429d08af82ecc2e56c0e32277ce5af41.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\f2e816105ad35c8b95770267207d10aacbec788f.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\8a14d0f055405c8c83dbf1c4bb13e5ab2796ab6f.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\92a2aecd03f9fb756147e4c1501988b42573484c.flata
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\cb1b7bd06998e262f04d515e867cdbfe7836ede7.flata
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\6fdcb2004c7d439f9a6115089691ea804b30e353.flata
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\fb3604ad6a594e1c6817260d3cb4371de2599a8c.flata
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\305cc05ff61f45eb5ac7e7b536e0904f72cb3ce0.flata
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\20de1836b0341621747c394ddfb3c228b79f6408.flata
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\a3295369e3514d8f3e243b51c636d761073805d3.flata
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\28c188064fb962e2fa72585f284524e094079a29.flata
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\23119f43429d08af82ecc2e56c0e32277ce5af41.flata
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\f2e816105ad35c8b95770267207d10aacbec788f.flata
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\8a14d0f055405c8c83dbf1c4bb13e5ab2796ab6f.flata
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\flata\compiled.flata
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\R.txt
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\R.cs.flag
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\XamlC.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\SecondChuckNorrisApp1.Android.csproj.CopyComplete
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\SecondChuckNorrisApp1.Android.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\SecondChuckNorrisApp1.Android.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\bin\com.companyname.secondchucknorrisapp1.apk
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\values\styles.xml
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\values\colors.xml
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\drawable\lee.jpg
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\uploadflags.txt
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\SecondChuckNorrisApp1.Android.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\FormsViewGroup.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Java.Interop.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Mono.Android.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\mscorlib.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Newtonsoft.Json.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\SecondChuckNorrisApp1.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Core.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Numerics.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Numerics.Vectors.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Runtime.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Xml.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Xml.Linq.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Common.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Collections.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CursorAdapter.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomTabs.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomView.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Design.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.DocumentFile.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.DrawerLayout.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Interpolator.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Loader.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Media.Compat.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Print.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v4.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.CardView.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.ViewPager.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Essentials.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Core.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.Android.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Xaml.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Net.Http.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Drawing.Common.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\netstandard.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Data.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Transactions.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.IO.Compression.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.ComponentModel.Composition.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\System.Web.Services.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\ChckNorrisJokesLibrary.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Mono.Security.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\SecondChuckNorrisApp1.Android.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\FormsViewGroup.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Mono.Android.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\SecondChuckNorrisApp1.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Essentials.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Core.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.Android.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\linksrc\ChckNorrisJokesLibrary.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\link.flag
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\ChckNorrisJokesLibrary.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\ChckNorrisJokesLibrary.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\SecondChuckNorrisApp1.Android.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\SecondChuckNorrisApp1.Android.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\SecondChuckNorrisApp1.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\SecondChuckNorrisApp1.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.jm.x86.s
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.mj.x86.s
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\assets\machine.config
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\static.flag
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\buildid.txt
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActionSheetRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActivityIndicatorRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AHorizontalScrollView.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AndroidActivity.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BaseCellView.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BorderDrawable.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BoxRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonClickListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonTouchListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageAdapter.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselViewRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellAdapter.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellRenderer_RendererHolder.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CenterSnapHelper.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxDesignerRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxRendererBase.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CircularProgress.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CollectionViewRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ColorChangeRevealDrawable.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ConditionalFocusLayout.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ContainerView.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CustomFrameLayout.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DataChangeObserver.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRendererBase_1.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EdgeSnapHelper.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorEditText.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRendererBase_1.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EmptyViewAdapter.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSingleSnapHelper.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSnapHelper.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryAccessibilityDelegate.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellEditText.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellView.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryEditText.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRendererBase_1.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_FontSpan.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_LineHeightSpan.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_TextDecorationSpan.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsAppCompatActivity.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsApplicationActivity.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditText.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditTextBase.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsImageView.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsSeekBar.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsTextView.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebChromeClient.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebViewClient.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer_FrameDrawable.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericAnimatorListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericMenuClickListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GestureManager_TapAndPanGestureDetector.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GridLayoutSpanSizeLookup.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GroupedListViewAdapter.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageButtonRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_CacheEntry.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_FormsLruCache.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerGestureListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerScaleListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemContentView.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewAdapter.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LabelRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewAdapter.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_Container.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LocalizedDigitsKeyListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailContainer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NativeViewWrapperRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NavigationRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NongreedySnapHelper.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ObjectJavaBox_1.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer_Renderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageContainer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedFragment.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedSupportFragment.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerEditText.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerManager_PickerListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PlatformRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\Platform_DefaultRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PositionalSmoothScroller.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PowerSaveModeBroadcastReceiver.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ProgressBarRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollHelper.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewContainer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SearchBarRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewAdapter.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableViewHolder.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellContentFragment.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFragmentPagerAdapter.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRendererBase.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellPageContainer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellRenderer_SplitDrawable.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_CustomFilter.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView_ClipDrawableWrapper.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSectionRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SimpleViewHolder.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SingleSnapHelper.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SizedItemContentView.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SliderRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SpacingItemDecoration.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSingleSnapHelper.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSnapHelper.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRendererManager_StepperListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchCellView.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TabbedRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewModelRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TemplatedItemViewHolder.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextCellRenderer_TextCellView.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextViewHolder.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRendererBase_1.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer_2.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementRenderer_1.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementTracker_AttachTracker.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer_JavascriptResult.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\AccelerometerListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ActivityLifecycleContextListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BarometerListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BatteryBroadcastReceiver.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ConnectivityBroadcastReceiver.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\EnergySaverBroadcastReceiver.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\GyroscopeListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\Listener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\MagnetometerListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\OrientationSensorListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SensorListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SingleLocationListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\TextToSpeechImplementation.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ButtonRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\FrameRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ImageRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\LabelRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5423e3a95c357eb7d6aad61b4f54abbd4\RecyclerViewScrollListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ButtonRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\CarouselPageRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsFragmentPagerAdapter_1.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsViewPager.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FragmentContainer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FrameRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailContainer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailPageRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_ClickListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_Container.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRendererBase_1.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\Platform_ModalContainer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ShellFragmentContainer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\SwitchRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\TabbedPageRenderer.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ViewRenderer_2.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\CustomTabsServiceConnectionImpl.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\KeepAliveService.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\md51d13c28a4ed7fce23a325b480c9ae668\MainActivity.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\src\com\companyname\secondchucknorrisapp1\R.java
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\android\bin\classes.dex
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\drawable\ozzy.jpg
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1.Android\obj\Debug\90\res\drawable\pain.jpg

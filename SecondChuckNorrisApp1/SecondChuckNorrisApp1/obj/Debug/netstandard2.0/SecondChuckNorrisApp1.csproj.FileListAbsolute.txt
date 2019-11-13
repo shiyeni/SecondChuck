@@ -1,0 +1,33 @@
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\bin\Debug\netstandard2.0\SecondChuckNorrisApp1.deps.json
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\bin\Debug\netstandard2.0\SecondChuckNorrisApp1.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\bin\Debug\netstandard2.0\ref\SecondChuckNorrisApp1.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\bin\Debug\netstandard2.0\SecondChuckNorrisApp1.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\bin\Debug\netstandard2.0\ChckNorrisJokesLibrary.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\bin\Debug\netstandard2.0\ChckNorrisJokesLibrary.pdb
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\SecondChuckNorrisApp1.csprojAssemblyReference.cache
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\SecondChuckNorrisApp1.AssemblyInfoInputs.cache
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\SecondChuckNorrisApp1.AssemblyInfo.cs
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\SecondChuckNorrisApp1.csproj.CopyComplete
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\SecondChuckNorrisApp1.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\ref\SecondChuckNorrisApp1.dll
+C:\Users\ongeziwe shiyeni\source\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\SecondChuckNorrisApp1.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\bin\Debug\netstandard2.0\SecondChuckNorrisApp1.deps.json
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\bin\Debug\netstandard2.0\SecondChuckNorrisApp1.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\bin\Debug\netstandard2.0\ref\SecondChuckNorrisApp1.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\bin\Debug\netstandard2.0\SecondChuckNorrisApp1.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\bin\Debug\netstandard2.0\ChckNorrisJokesLibrary.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\bin\Debug\netstandard2.0\ChckNorrisJokesLibrary.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\SecondChuckNorrisApp1.csprojAssemblyReference.cache
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\SecondChuckNorrisApp1.AssemblyInfoInputs.cache
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\SecondChuckNorrisApp1.AssemblyInfo.cs
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\SecondChuckNorrisApp1.csproj.CopyComplete
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\SecondChuckNorrisApp1.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\ref\SecondChuckNorrisApp1.dll
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\SecondChuckNorrisApp1.pdb
+C:\Xamarin\SecondChuckNorrisLibrary\SecondChuckNorrisApp1\SecondChuckNorrisApp1\obj\Debug\netstandard2.0\Category.xaml.g.cs
